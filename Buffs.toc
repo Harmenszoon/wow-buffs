@@ -1,5 +1,5 @@
 ## Interface: 16001
-## Title: Buffs
+## Title: Harmenszoon's Buffs
 ## Author: Harmenszoon
 ## Notes: Alt-click buffs to track missing and expiring buffs and weapon enchants.
 ## Version: 0.1.2
